@@ -1,0 +1,672 @@
+newmtl material_96
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000041110_0.jpg
+
+newmtl material_95
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000041100_0.jpg
+
+newmtl material_94
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000041010_0.jpg
+
+newmtl material_93
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000041000_0.jpg
+
+newmtl material_91
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000040100_0.jpg
+
+newmtl material_89
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000040000_0.jpg
+
+newmtl material_87
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000034300_0.jpg
+
+newmtl material_85
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000034100_0.jpg
+
+newmtl material_84
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000034000_0.jpg
+
+newmtl material_82
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000033100_0.jpg
+
+newmtl material_81
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000033000_0.jpg
+
+newmtl material_80
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000032500_0.jpg
+
+newmtl material_75
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000032000_0.jpg
+
+newmtl material_74
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000031300_0.jpg
+
+newmtl material_73
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000031200_0.jpg
+
+newmtl material_72
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000031100_0.jpg
+
+newmtl material_71
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000031000_0.jpg
+
+newmtl material_69
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000030200_0.jpg
+
+newmtl material_68
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000030100_0.jpg
+
+newmtl material_67
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000030000_0.jpg
+
+newmtl material_66
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000023300_0.jpg
+
+newmtl material_65
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000023200_0.jpg
+
+newmtl material_63
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000023000_0.jpg
+
+newmtl material_62
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000022300_0.jpg
+
+newmtl material_61
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000022200_0.jpg
+
+newmtl material_59
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000022000_0.jpg
+
+newmtl material_58
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000021300_0.jpg
+
+newmtl material_56
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000021100_0.jpg
+
+newmtl material_55
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000021000_0.jpg
+
+newmtl material_54
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000020300_0.jpg
+
+newmtl material_52
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000020100_0.jpg
+
+newmtl material_49
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000013200_0.jpg
+
+newmtl material_48
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000013100_0.jpg
+
+newmtl material_47
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000013000_0.jpg
+
+newmtl material_46
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000012300_0.jpg
+
+newmtl material_44
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000012100_0.jpg
+
+newmtl material_42
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000011300_0.jpg
+
+newmtl material_32
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000004100_0.jpg
+
+newmtl material_30
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000003300_0.jpg
+
+newmtl material_28
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000003100_0.jpg
+
+newmtl material_24
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000002300_0.jpg
+
+newmtl material_23
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000002200_0.jpg
+
+newmtl material_21
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000002100_0.jpg
+
+newmtl material_20
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000002000_0.jpg
+
+newmtl material_19
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000001500_0.jpg
+
+newmtl material_18
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000001400_0.jpg
+
+newmtl material_17
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000001300_0.jpg
+
+newmtl material_16
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000001200_0.jpg
+
+newmtl material_15
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000001100_0.jpg
+
+newmtl material_9
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000210_0.jpg
+
+newmtl material_8
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000200_0.jpg
+
+newmtl material_92
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000040110_0.jpg
+
+newmtl material_90
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000040010_0.jpg
+
+newmtl material_88
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000034400_0.jpg
+
+newmtl material_86
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000034200_0.jpg
+
+newmtl material_83
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000033110_0.jpg
+
+newmtl material_79
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000032400_0.jpg
+
+newmtl material_78
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000032300_0.jpg
+
+newmtl material_77
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000032200_0.jpg
+
+newmtl material_76
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000032100_0.jpg
+
+newmtl material_70
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000030300_0.jpg
+
+newmtl material_64
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000023100_0.jpg
+
+newmtl material_60
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000022100_0.jpg
+
+newmtl material_57
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000021200_0.jpg
+
+newmtl material_53
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000020200_0.jpg
+
+newmtl material_51
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000020000_0.jpg
+
+newmtl material_50
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000013300_0.jpg
+
+newmtl material_45
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000012200_0.jpg
+
+newmtl material_43
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000012000_0.jpg
+
+newmtl material_41
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000011200_0.jpg
+
+newmtl material_40
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000011100_0.jpg
+
+newmtl material_39
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000011000_0.jpg
+
+newmtl material_38
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000010300_0.jpg
+
+newmtl material_37
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000010200_0.jpg
+
+newmtl material_36
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000010100_0.jpg
+
+newmtl material_35
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000010000_0.jpg
+
+newmtl material_34
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000004300_0.jpg
+
+newmtl material_33
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000004200_0.jpg
+
+newmtl material_31
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000004000_0.jpg
+
+newmtl material_29
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000003200_0.jpg
+
+newmtl material_27
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000003000_0.jpg
+
+newmtl material_26
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000002500_0.jpg
+
+newmtl material_25
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000002400_0.jpg
+
+newmtl material_13
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000330_0.jpg
+
+newmtl material_12
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000320_0.jpg
+
+newmtl material_11
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000310_0.jpg
+
+newmtl material_10
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000300_0.jpg
+
+newmtl material_6
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000110_0.jpg
+
+newmtl material_2
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000010_0.jpg
+
+newmtl material_1
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000000_0.jpg
+
+newmtl material_14
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000001000_0.jpg
+
+newmtl material_5
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000100_0.jpg
+
+newmtl material_7
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000120_0.jpg
+
+newmtl material_4
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000030_0.jpg
+
+newmtl material_3
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000000020_0.jpg
+
+newmtl material_22
+       Ka 1 1 1 1
+       Kd 1 1 1 1
+       Ks 0 0 0 1
+       Ns 0
+       map_Kd Tile_+005_+006_L21_0000002110_0.jpg
+
